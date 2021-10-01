@@ -9,7 +9,7 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 2;
-    color: red;
+    color: blue;
     background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .navlinks li a:hover {
-    border-bottom: 2px white solid;
+    border-bottom: 2px black solid;
 }
 
 
